@@ -1,0 +1,6 @@
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\bin\Debug\rotatematrix1.6.exe.config
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\bin\Debug\rotatematrix1.6.exe
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\bin\Debug\rotatematrix1.6.pdb
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\obj\Debug\rotatematrix1.6.csprojResolveAssemblyReference.cache
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\obj\Debug\rotatematrix1.6.exe
+C:\Study\DotNET\Book\rotatematrix1.6\rotatematrix1.6\obj\Debug\rotatematrix1.6.pdb
